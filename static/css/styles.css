@@ -18,3 +18,23 @@
 .datepicker {
     z-index: 10000;
 }
+.btn-outline-secondary {
+    color: aqua;
+    border-color: #6c757d;
+}
+
+p {
+
+}
+
+.paraClass {
+    font-size: 3em;
+}
+
+.secondClass {
+    color: red;
+}
+
+#lastPara {
+    text-decoration: underline;
+}
